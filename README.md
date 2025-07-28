@@ -31,22 +31,42 @@ Importação e visualização inicial dos dados
 
 Limpeza e tratamento de valores ausentes
 
-Análise descritiva
+Análise descritiva:
+    Age
+    26-35    66942
+    36-45    33285
+    18-25    31316
+    46-50    13374
+    51-55    11166
+    55+       5865
+    0-17      4873
+Gender
+M    129227
+F     37594
+Product_Category_1
+1     91142
+5     19011
+2     16309
+3     12462
+8      9068
+6      8398
+4      5349
+11     1961
+10     1755
+13     1056
+12      159
+15      151
 
 Visualizações gráficas:
 
-Compras por faixa etária
+- Compras por faixa etária
 
-Compras por gênero
+- Compras por gênero
 
-Compras por categoria de produto
+- Compras por categoria de produto
 
-Distribuição do valor das compras
+- Distribuição do valor das compras
 
-Conclusões rápidas
-
-* Exemplos de gráficos
-(Imagens dos gráficos podem ser adicionadas aqui após execução do notebook)
 
 * Conclusões
 
